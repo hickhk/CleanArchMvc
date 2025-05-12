@@ -1,0 +1,26 @@
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+D:\_Cursos_Macoratti\Curso_Clean_Archictecture_Essencial\14_Migracao_NET7\CleanArchMvc1\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.IoC.deps.json
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.IoC.dll
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.IoC.pdb
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Application.dll
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.Data.dll
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Application.pdb
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Infra.Data.pdb
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArc.C4193000.Up2Date
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.dll
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\refint\CleanArchMvc.Infra.IoC.dll
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.pdb
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
+D:\cursos\CleanArchMvc C#\CleanArchMvc_NET7\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net7.0\ref\CleanArchMvc.Infra.IoC.dll
